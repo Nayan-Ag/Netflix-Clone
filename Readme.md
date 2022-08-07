@@ -9,7 +9,7 @@ The rest images and background were direcly downloaded from Netflix original pag
 ## 
 This i sjust a starting of this project.
 
-## In the upcoming time there would be the pge for the moviews to be shown and for the recommendations Ai/Ml would be aslo used.
+## In the upcoming time there would be the pge for the movies to be shown and for the recommendations Ai/Ml would be aslo used.
 
 
 # 
